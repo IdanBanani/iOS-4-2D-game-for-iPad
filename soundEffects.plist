@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kGameLevel1</key>
+	<dict>
+		<key>EXPLOSION_SOUND</key>
+		<string>explosion.caf</string>
+		<key>CANNON_SOUND</key>
+		<string>CANNON.caf</string>
+		<key>BREAKING_GLASS_SOUND</key>
+		<string>breakingGlass.caf</string>
+		<key>BUBBLE_SOUND</key>
+		<string>bubble.caf</string>
+	</dict>
+</dict>
+</plist>
